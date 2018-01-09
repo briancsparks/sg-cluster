@@ -1,0 +1,22 @@
+{
+  "name": "sgsg-cluster",
+  "version": "0.4.1",
+  "description": "sgify cluster",
+  "main": "sg-cluster.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/briancsparks/sg-cluster.git"
+  },
+  "keywords": [
+    "sg"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/briancsparks/sg-cluster/issues"
+  },
+  "homepage": "https://github.com/briancsparks/sg-cluster#readme"
+}
